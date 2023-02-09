@@ -1,3 +1,5 @@
-the hobbit - tolkien
-sharp objects - flynn
-little women - maygit
+the hobbit - tolkien-3.59
+sharp objects - flynn-8.69
+little women - maygit-3.59
+the princess bride - william-3.99
+jurassic park - crichton -4.19
